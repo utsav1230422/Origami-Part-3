@@ -1,0 +1,21 @@
+h1{
+    color:purple;
+}
+
+.header{
+ background-color: royalblue;
+ display: flex;
+ justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap:wrap ;
+    
+}
